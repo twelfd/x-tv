@@ -365,7 +365,7 @@ echo " "
 #mkdir /var/www/html
 #cd /var/www/html #DESTINACIONI KRYESOR ADMIN - TEMPLATES ETC
 cd /var/www/html
-wget http://downloads.sourceforge.net/project/andykimpe-xtv/Xtream_Codes_v1.0.60_Nulled.zip
+wget http://127.0.0.1/Xtream_Codes_v1.0.60_Nulled.zip
 unzip Xtream_Codes_v1.0.60_Nulled.zip
 cp /var/www/html/downloads/iptv_panel_pro.zip /tmp
 chmod a+x /tmp/iptv_panel_pro.zip
